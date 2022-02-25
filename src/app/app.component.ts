@@ -28,7 +28,7 @@ export class AppComponent {
       locaaa:"Delhi,India",
     },
     {
-      compan: "Root Level",
+      compan: "Tech Connect",
       company: "Mattermost . part-time",
       startDate: "Aug 2020 - Dec 2020 . 5 month",
       locaa: "Kolkata,West Bengal,India",
